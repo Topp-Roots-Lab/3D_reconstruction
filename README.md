@@ -7,3 +7,12 @@ As input our algorithm requires a rotational binary-image sequence with known ro
 
 * `libpng`
 * `libpng-dev`.
+
+## Building from source
+
+```bash
+# Build binary
+make
+# Install
+make install
+```
